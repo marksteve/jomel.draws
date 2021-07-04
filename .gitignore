@@ -2,6 +2,7 @@
 out*.png
 *.png
 *.jpg
+!jomel.draws.jpg
 *.pyc
 *.pth
 models/
